@@ -4,11 +4,11 @@
 
 ## Overview
 
-This repository contains the **Power BI Car Sales Analysis Dashboard**. The dashboard is designed to provide a comprehensive overview of a company's sales performance, with various metrics and interactive visuals that allow users to explore the data in detail.
+This repository contains the **Power BI Car Sales Analysis Dashboard**. The dashboard is designed to provide a comprehensive overview of car sales performance, with various metrics and interactive visuals that allow users to explore the data in detail.
 
 ### Goal
 
-The main goal of this dashboard is to help businesses analyze their sales data effectively. It is a powerful tool for identifying trends, tracking performance, and understanding key factors influencing sales outcomes. By visualizing sales data in an interactive format, users can make informed decisions based on real-time insights.
+The main goal of this dashboard is to help analyze their sales data effectively. It is a powerful tool for identifying trends, tracking performance, and understanding key factors influencing sales outcomes. By visualizing sales data in an interactive format, users can make informed decisions based on real-time insights.
 
 ### Dashboard Key Features
 1. Sales Performance Overview
@@ -37,7 +37,7 @@ The main goal of this dashboard is to help businesses analyze their sales data e
 ## Steps
 
 1. **Imported Data**:
-   - Imported the provided `.xlsx` file into Power BI.
+   - Imported the provided `Car Sales.xlsx` file into Power BI.
 
 2. **Data Cleaning**:
    - Replaced the typo *"DoubleÂ Overhead Camshaft"* with *"Double Overhead Camshaft."*
