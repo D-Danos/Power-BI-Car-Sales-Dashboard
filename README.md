@@ -14,6 +14,8 @@ The main goal of this dashboard is to help businesses analyze their sales data e
 1. Sales Performance Overview
 2. Year-over-Year Comparisons
 3. Interactive Filters
+
+### Dashboard
 ![Car Sales Dashboard](Car_Sales_Dashboard.png)
 
 ## How to Use the Dashboard
